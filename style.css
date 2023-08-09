@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
+*{margin:10;paddimg:10;}
+body{ 
+    font-family: 'Borel', cursive; 
+    background-color: cyan;
+}
+u, h2{ color: beige;}
+h3{color: brown;}
+img{ height:100px;
+      width:100px}
+ p{
+    padding:5;
+ }     
+
+ 
